@@ -1,6 +1,6 @@
 # Pytorch
 
-In this repo will commit by day to day learning of the pytorch starting from march 4th onwards. 
+In this repo will commit my day to day learning of the pytorch starting from march 4th onwards. 
 
 
  -> March 4th:
